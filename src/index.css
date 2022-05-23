@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #ea2027;
+}
+
+.heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.heading h1 {
+  color: #fed330;
+  background-color: #20bf6b;
+}
+
+.heading p {
+  font-weight: 500%;
+  color: #9980fa;
+  background-color: #c4e538;
+}
+
+.images {
+  display: flex;
+  justify-content: space-evenly;
+}
